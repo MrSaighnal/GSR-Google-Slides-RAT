@@ -21,7 +21,7 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
     git clone https://github.com/MrSaighnal/GSR-Google-Slides-RAT
     cd GSR-Google-Slides-RAT
     ```
-2. **Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=**
+2. **Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=**<p>
    ![api](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/f7dfbcfb-41f8-4b57-a1a5-fb69626ace16)
 
 3. **Create a new service account and download the JSON file containing the credentials**
