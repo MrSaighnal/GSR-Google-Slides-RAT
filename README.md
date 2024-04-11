@@ -11,6 +11,10 @@ GSR serves as a proof of concept for an infrastructure-less Command and Control 
 
 ![image](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/25ad5023-1b8d-4d39-9e8e-f632351f2708)
 
+## POC
+![animation](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/293df586-38f9-4803-a201-e716f518954e)
+
+
 ## Attack Workflow
 ![GSR - Google Slides RAT](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/38d191ab-27d4-44d3-96cc-09f073bc63bf)
 
