@@ -18,3 +18,12 @@ GSR serves as a proof of concept for an infrastructure-less Command and Control 
 Google Slides RAT has been made in Italy with ❤️<p>
 I take no responsibility for the use that will be made of it.<p>
 Please do not use it for illegal purpose.
+
+## To do
+- [x] Agent Development
+- [x] C2 Development
+- [x] Command Execution
+- [ ] change polling time function
+- [ ] Screenshot capture function
+- [ ] File Download
+- [ ] File Upload
