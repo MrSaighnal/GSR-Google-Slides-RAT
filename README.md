@@ -16,13 +16,19 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
 
 ## How to use
 1. **Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=**
-2. **Create a new service account and download the JSON file containing the credentials**
-3. **Create a new Google Slides document and note the ID (in the URI)**
-4. **Share the Google document with the new created service account**
-5. **Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the modules/config.py and the agent.py file**
-6. **Create a table in the first slide formed by 3 columns and 10 rows**
-7. **Weaponize your agent.py file, and deliver it to the target**
-8. **Enjoy your C2**
+   ![api](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/f7dfbcfb-41f8-4b57-a1a5-fb69626ace16)
+
+3. **Create a new service account and download the JSON file containing the credentials**
+   by visiting the link https://console.cloud.google.com/ and exploring the "IAM" area
+   then click on "Service Account" (left panel)
+   ![saccount](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/67746089-8790-4cae-8eef-5cb0dae18764)
+
+5. **Create a new Google Slides document and note the ID (in the URI)**
+6. **Share the Google document with the new created service account**
+7. **Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the modules/config.py and the agent.py file**
+8. **Create a table in the first slide formed by 3 columns and 10 rows**
+9. **Weaponize your agent.py file, and deliver it to the target**
+10. **Enjoy your C2**
 
 ## Attack Workflow
 ![GSR - Google Slides RAT](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/38d191ab-27d4-44d3-96cc-09f073bc63bf)
