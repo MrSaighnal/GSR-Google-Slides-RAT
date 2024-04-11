@@ -16,5 +16,5 @@ GSR serves as a proof of concept for an infrastructure-less Command and Control 
 
 ## Disclaimer and notes
 Google Slides RAT has been made in Italy with ❤️<p>
-I take no responsibility for the use that will be made of it.
+I take no responsibility for the use that will be made of it.<p>
 Please do not use it for illegal purpose.
