@@ -25,9 +25,13 @@ The server allows for comfortable command control, interfacing directly with Goo
 
 ## How to use
 1. Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=api-project-121359567197
-2. create a new service account and download the JSON file containing the credentials
+2. Create a new service account and download the JSON file containing the credentials
 3. Create a new Google Slides document and note the ID (in the URI)
 4. Share the Google document with the new created service account
+5. Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the modules/config.py and the agent.py file
+6. Create a table in the first slide formed by 3 columns and 10 rows
+7. Weaponize your agent.py file, and deliver it to the target
+8. Enjoy your C2
 
 ## Disclaimer and notes
 Google Slides RAT has been made in Italy with ❤️<p>
