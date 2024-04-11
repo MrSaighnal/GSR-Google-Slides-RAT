@@ -14,6 +14,17 @@ GSR serves as a proof of concept for an infrastructure-less Command and Control 
 ## Attack Workflow
 ![GSR - Google Slides RAT](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/38d191ab-27d4-44d3-96cc-09f073bc63bf)
 
+## How it works
+GSR consists of two main components:
+- the agent
+- the server
+
+The agent is the component that needs to be deployed on the target PC. It's entirely written in Python and can be weaponized with the help of auto-py-to-exe.
+
+The server allows for comfortable command control, interfacing directly with Google's services.
+
+
+
 ## Disclaimer and notes
 Google Slides RAT has been made in Italy with ❤️<p>
 I take no responsibility for the use that will be made of it.<p>
