@@ -52,10 +52,10 @@ Please do not use it for illegal purpose.
 
 ## To do
 - [x] Agent Development
-- [x] C2 Development
-- [x] Command Execution
-- [ ] change polling time function
-- [ ] Screenshot capture function
+- [x] C2 (Command and Control) Development
+- [x] Command Execution (via bi-directional communication channel)
+- [ ] Change Polling Time Function
+- [ ] Screenshot Capture Function
 - [ ] File Download
 - [ ] File Upload
-- [ ] Crypto protocol
+- [ ] Cryptographic Protocol
