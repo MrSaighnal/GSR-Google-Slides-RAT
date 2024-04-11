@@ -18,8 +18,8 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
 1. The C2 can be cloned directly from GitHub:
 
     ```
-    git clone https://github.com/looCiprian/GC2-sheet
-    cd GC2-sheet
+    git clone https://github.com/MrSaighnal/GSR-Google-Slides-RAT
+    cd GSR-Google-Slides-RAT
     ```
 2. **Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=**
    ![api](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/f7dfbcfb-41f8-4b57-a1a5-fb69626ace16)
@@ -36,11 +36,11 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
    ![slide](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/81c27b11-4de0-488c-b4d9-0fce3902deb8)
 5. **Share the Google document with the new created service account**
    ![share](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/f9456977-ec50-484c-8fc0-4e78d40a71c7)
-6. **Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the modules/config.py and the agent.py file**
+6. **Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the `server/modules/config.py` and the `agent/agent.py` file**
 7. **Create a table in the first slide formed by 3 columns and 10 rows**
     ![image](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/2e39b080-632f-4317-b992-c5fce27a456b)
 8. **Weaponize your agent.py file, and deliver it to the target**
-    You can use multiple way to obtain the partial or full weaponization, the easiest way is to use pyinstaller by using the following command
+    You can use multiple way to obtain the partial or full weaponization, the easiest way is to use pyinstaller by using the following command<p>
     ```
     pyinstaller --noconfirm --onefile --windowed  "C:/Users/Admin/Documents/Progetti/GSC - Google Slides Rat/agent/agent.py"
     ```
