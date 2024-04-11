@@ -6,7 +6,5 @@
 <p align="left">
 
 # GSR - Google Slides RAT
-Google Slides RAT (GSR) is the evolution of the old - [Google Calendar RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT).
-Google Slides RAT is a PoC of an infrastructureless Command&Control (C2) over Google Slides Documents. This tool is usefull if it is desired to not exposed a Red Teaming infrastructure and additionally save time for the deployement.
-To use GSR, only a Gmail account is required. The script creates a 'Covert Channel' by exploiting the table content in a Google Slides document.
-The target will connect directly to Google." It could maybe be considered as a layer 7 application Covert Channel.
+Google Slides RAT (GSR) is the evolution of the previously established [Google Calendar RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT).
+GSR serves as a proof of concept for an infrastructure-less Command and Control (C2) mechanism utilizing Google Slides documents. This tool is beneficial for scenarios where exposing a Red Teaming infrastructure is undesirable, and there's a need to streamline deployment. To employ GSR, one only needs a Gmail account. The script establishes a 'Covert Channel' by exploiting the table content within a Google Slides document, allowing the target to connect directly to Google. It could potentially be classified as a Layer 7 application covert channel.
