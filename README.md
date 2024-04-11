@@ -102,3 +102,7 @@ Please do not use it for illegal purpose.
 - [ ] File Download
 - [ ] File Upload
 - [ ] Cryptographic Protocol
+
+## Similar (External) Projects
+- [GCR- Google Calendar RAT (by MrSaighnal)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT)
+- [GC2-Sheet (by Lorenzo Grazian)](https://github.com/looCiprian/GC2-sheet)
