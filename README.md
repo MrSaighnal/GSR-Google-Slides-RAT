@@ -21,6 +21,14 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
     git clone https://github.com/MrSaighnal/GSR-Google-Slides-RAT
     cd GSR-Google-Slides-RAT
     ```
+
+  Then install the python dependencies for both the agent and the "server"
+
+  ```
+    pip install -r ./agent/requirements.txt
+    pip install -r ./server/requirements.txt
+  ```
+
 2. **Enable the Google Slides API**<p>
    Visit https://console.cloud.google.com/apis/library/slides.googleapis.com?project=<p>
    
