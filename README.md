@@ -78,7 +78,8 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
     ```
 
 ## Attack Workflow
-![GSR - Google Slides RAT](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/38d191ab-27d4-44d3-96cc-09f073bc63bf)
+![GSR - Google Slides RAT](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/10bdb7d2-09e5-4ec4-8c97-6a6f4a780b29)
+
 
 ## How it works
 GSR consists of two main components:
