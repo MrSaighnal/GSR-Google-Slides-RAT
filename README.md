@@ -14,6 +14,15 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
 ## POC
 ![animation](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/293df586-38f9-4803-a201-e716f518954e)
 
+## How to use
+1. **Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=**
+2. **Create a new service account and download the JSON file containing the credentials**
+3. **Create a new Google Slides document and note the ID (in the URI)**
+4. **Share the Google document with the new created service account**
+5. **Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the modules/config.py and the agent.py file**
+6. **Create a table in the first slide formed by 3 columns and 10 rows**
+7. **Weaponize your agent.py file, and deliver it to the target**
+8. **Enjoy your C2**
 
 ## Attack Workflow
 ![GSR - Google Slides RAT](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/38d191ab-27d4-44d3-96cc-09f073bc63bf)
@@ -33,17 +42,6 @@ Concentrating solely on the networking component, the only links formed will be 
 
 which results in
 ![image](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/ffed687c-b9f9-433b-a5f9-921be16ce70e)
-
-
-## How to use
-1. Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=
-2. Create a new service account and download the JSON file containing the credentials
-3. Create a new Google Slides document and note the ID (in the URI)
-4. Share the Google document with the new created service account
-5. Paste the content of the credentials JSON file and the document ID (retrieved from URI) in the modules/config.py and the agent.py file
-6. Create a table in the first slide formed by 3 columns and 10 rows
-7. Weaponize your agent.py file, and deliver it to the target
-8. Enjoy your C2
 
 ## Disclaimer and notes
 Google Slides RAT has been made in Italy with ❤️<p>
