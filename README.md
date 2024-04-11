@@ -28,7 +28,7 @@ The agent is the component that needs to be deployed on the target PC. It's enti
 The server allows for comfortable Command&Control, interfacing directly with Google's services.
 
 ## What a SOC Analyst will see?
-Concentrating solely on the networking component, the only links formed will be with Google's servers, rendering the connection entirely authentic. We'll verify this using Process Hacker.
+Concentrating solely on the networking component, the only links formed will be with Google's servers, rendering the connection entirely authentic. We'll verify this using Process Explorer.<p>
 ![image](https://github.com/MrSaighnal/GSR-Google-Slides-RAT/assets/47419260/4a2c8a2c-5d26-4f4b-ad7c-5ffe31180d63)
 
 which results in
