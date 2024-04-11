@@ -102,6 +102,7 @@ Please do not use it for illegal purpose.
 - [ ] File Download
 - [ ] File Upload
 - [ ] Cryptographic Protocol
+- [ ] shellcode/BOF Execution
 
 ## Similar (External) Projects
 - [GCR- Google Calendar RAT (by MrSaighnal)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT)
