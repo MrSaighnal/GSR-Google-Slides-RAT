@@ -36,7 +36,7 @@ which results in
 
 
 ## How to use
-1. Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=api-project-121359567197
+1. Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=
 2. Create a new service account and download the JSON file containing the credentials
 3. Create a new Google Slides document and note the ID (in the URI)
 4. Share the Google document with the new created service account
