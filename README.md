@@ -46,3 +46,4 @@ Please do not use it for illegal purpose.
 - [ ] Screenshot capture function
 - [ ] File Download
 - [ ] File Upload
+- [ ] Crypto protocol
