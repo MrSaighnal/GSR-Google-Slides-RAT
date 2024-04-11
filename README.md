@@ -23,7 +23,11 @@ The agent is the component that needs to be deployed on the target PC. It's enti
 
 The server allows for comfortable command control, interfacing directly with Google's services.
 
-
+## How to use
+1. Enable the Google Slides API on https://console.cloud.google.com/apis/library/slides.googleapis.com?project=api-project-121359567197
+2. create a new service account and download the JSON file containing the credentials
+3. Create a new Google Slides document and note the ID (in the URI)
+4. Share the Google document with the new created service account
 
 ## Disclaimer and notes
 Google Slides RAT has been made in Italy with ❤️<p>
