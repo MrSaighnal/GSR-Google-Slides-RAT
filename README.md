@@ -105,5 +105,5 @@ Please do not use it for illegal purpose.
 - [ ] shellcode/BOF Execution
 
 ## Similar (External) Projects
-- [GCR- Google Calendar RAT (by MrSaighnal)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT)
+- [GCR- Google Calendar RAT (by [Me] MrSaighnal)](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT)
 - [GC2-Sheet (by Lorenzo Grazian)](https://github.com/looCiprian/GC2-sheet)
