@@ -17,10 +17,10 @@ GSR serves as a proof of concept for an infrastructure-less Command&Control (C2)
 ## How to use
 1. The C2 can be directly cloned from GitHub by using the following commands:
 
-    ```
-    git clone https://github.com/MrSaighnal/GSR-Google-Slides-RAT
-    cd GSR-Google-Slides-RAT
-    ```
+  ```
+  git clone https://github.com/MrSaighnal/GSR-Google-Slides-RAT
+  cd GSR-Google-Slides-RAT
+  ```
 
   Then install the python dependencies for both the agent and the "server"
 
